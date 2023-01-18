@@ -40,7 +40,8 @@ html body h5{font-weight:600}
 html body h5{font-size:1em}
 html body h6{color:#9cffff}
 
-html body strong{color:#fff}
+html body strong{color:#f07178}
+html body em{color:#C792EA}
 html body del{color:#9cffff}
 html body a:not([href]){color:inherit;text-decoration:none}
 html body a{color:#82AAFF;text-decoration:none}
@@ -65,9 +66,9 @@ html body .task-list-item-checkbox:hover{cursor:pointer}
 html body blockquote{margin:16px 0;
                     font-size:inherit;
                     padding:0 15px;
-                    color:#9cffff;
-                    background-color:#364850;
-                    border-left:4px solid #475d69}
+                    color:#F78C6C;
+                    background-color:#393e55;
+                    border-left:4px solid #82AAFF}
 
 html body blockquote>:first-child{margin-top:0}
 html body blockquote>:last-child{margin-bottom:0}
@@ -85,7 +86,7 @@ html body table{margin:10px 0 15px 0;
                 word-break:normal;
                 word-break:keep-all}
 html body table th{font-weight:bold;
-                    color:#fff}
+                    color:#f07178}
 html body table td,
 html body table th{border:1px solid #475d69;
                   padding:6px 13px}
