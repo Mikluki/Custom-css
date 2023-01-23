@@ -1,0 +1,800 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lab",
+				"\\label"
+			],
+			[
+				"capti",
+				"\\caption"
+			],
+			[
+				"inc",
+				"\\include"
+			],
+			[
+				"se",
+				"\\section{}"
+			],
+			[
+				"new",
+				"\\newline"
+			],
+			[
+				"ci",
+				"\\cite"
+			],
+			[
+				"c",
+				"\\cite"
+			],
+			[
+				"ba",
+				"baker1973formation: Formation of filamentous carbon from iron, cobalt and chromium catalyzed decomposition of acetylene"
+			],
+			[
+				"ca",
+				"\\caption"
+			],
+			[
+				"plt",
+				"pltplot"
+			],
+			[
+				"pap",
+				"paper per year.csv"
+			],
+			[
+				"fr",
+				"\\frac{}{}"
+			],
+			[
+				"sectio",
+				"\\section*{}"
+			],
+			[
+				"int",
+				"Integrate"
+			],
+			[
+				"sect",
+				"\\section*{}"
+			],
+			[
+				"left",
+				"\\leftarrow"
+			],
+			[
+				"be",
+				"\\begin"
+			],
+			[
+				"hspa",
+				"\\hspace"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ne",
+				"\\newline"
+			],
+			[
+				"pu",
+				"puck_y"
+			],
+			[
+				"uc",
+				"puck_x"
+			],
+			[
+				"p",
+				"puck_y"
+			],
+			[
+				"puck",
+				"puck_x"
+			],
+			[
+				"A",
+				"A_pad_x"
+			],
+			[
+				"inter",
+				"inter2"
+			],
+			[
+				"In",
+				"Int"
+			],
+			[
+				"4L",
+				"4L.txt"
+			],
+			[
+				"in",
+				"interval"
+			],
+			[
+				"read",
+				"read_f"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packas",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snippet",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mik/Projects/_Code-projects_/Custom-css-git"
+	],
+	"file_history":
+	[
+		"/home/mik/_git-Mos2/MSc thesis/main/_ToC.md",
+		"/home/mik/_git-Mos2/Mos2-Art/main text/ToC.md",
+		"/home/mik/_git-Mos2/Mos2-Art/main text/_text.md",
+		"/home/mik/_git-Mos2/Mos2-Art/main text/_Story.md",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/Art__merge/merge.py",
+		"/home/mik/_git-Mos2/Mos2-Art/main text/_discuss_ext-spectra-F.md",
+		"/home/mik/_git-Mos2/Mos2-Art/main text/_calc_conc.md",
+		"/home/mik/git-Thz-Antenna/matlab-code/bowTie_vary_L_angle.m",
+		"/home/mik/git-Thz-Antenna/matlab-code/bowTie_vary_params_2plots.m",
+		"/home/mik/_Thz-ML-project/Thz-Antenna-git/matlab-code/bowTie_demo.m",
+		"/home/mik/git-Thz-Antenna/Tasks.md",
+		"/home/mik/_Thz-ML-project/Thz-ML-git/guide_Antennas.md",
+		"/home/mik/_Thz-ML-project/Thz-ML-git/Tasks.md",
+		"/home/mik/_Thz-ML-project/Thz-ML-git/Bow_tie_demo.m",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/abs/ext-wM-sc20.0-c.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/abs/ext-wM-sc0.50-c.csv",
+		"/home/mik/_Thz-ML-project/Thz-ML-git/plan.md",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/water7nm-sc20.0.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/water7nm-sc0.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/pl-wM3-7nm-sc050-c.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/pl-wM3-7nm-sc20.00-c.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/source 16_01_Stas/APP63_02.SP",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/source 16_01_Stas/APP63_01.SP",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/abs/parse batch file/both-0.50-20.0.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/source 16_01_Stas/ext-wM3-sc50-0.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/source 16_01_Stas/ext-wM3-sc20-0.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/pl-wM2-7nm-sc25.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/water7nm-v2.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/source 16_01_Stas/pl_v1/ref20_PL_v11_S1R1ref20PLv1d5.csv",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/S-2023-01-17 sc40.0_sc0.25/pl/add metadata batch/sc25.csv",
+		"/home/mik/_Thz-ML-project/Thz-ML-git/lu6936ga4b.tmp",
+		"/home/mik/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.7/node_modules/@shd101wyy/mume/styles/preview_theme/palenight.css",
+		"/home/mik/Projects/_Code-projects_/Custom-css-git/palenight.css",
+		"/home/mik/Projects/_Code-projects_/Custom-css-git/Community-Material-Theme-Palenight-High-Contrast.json",
+		"/home/mik/_Thz-ML-project/Thz-ML-git/articles2data.html",
+		"/home/mik/.vscode/extensions/equinusocio.vsc-community-material-theme-1.4.4/themes/Community-Material-Theme-Palenight-High-Contrast.json",
+		"/home/mik/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.7/node_modules/@shd101wyy/mume/styles/preview_theme/atom-material.css",
+		"/home/mik/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.7/node_modules/@shd101wyy/mume/styles/preview_theme/test.css",
+		"/home/mik/_git-Mos2/Measurements-and-analysis/Art__figs_all/water-mix__Art_v1/abs/ext-wM1-sc025-c.csv",
+		"/home/mik/_git-Mos2/MSc thesis pres v1/_ru-tmp.md",
+		"/home/mik/_git-Mos2/MSc thesis pres v1/ToC2text.md",
+		"/home/mik/_git-Mos2/MSc thesis pres v1/ToC.md",
+		"/home/mik/_git-Mos2/MSc thesis pres v1/diagram.md",
+		"/home/mik/Projects/2D-Science-MoS2-git/MSc thesis/notes/_Applications.md",
+		"/home/mik/_git-Mos2/MSc thesis/main/_ru-tmp.md",
+		"/home/mik/Downloads/POSCARS_1.txt",
+		"/home/mik/_git-Mos2/MSc thesis/main/Blocks.md",
+		"/home/mik/Downloads/scholar.ris",
+		"/home/mik/scripts/sci2pdf/README",
+		"/home/mik/scripts/sci2pdf/README.md",
+		"/home/mik/scripts/sci2pdf/requirements.txt",
+		"/home/mik/scripts/sci2pdf/scihub2pdf/download/README.md",
+		"/home/mik/scripts/sci2pdf/setup.py",
+		"/home/mik/Documents/tmp.md",
+		"/home/mik/Projects/2D-Science-MoS2-git/MSc thesis/_memory-Electronics.md",
+		"/home/mik/papers/518c22699b392d5bc422b7030ad5d314-bandurin-d.-a.-and/info.yaml",
+		"/home/mik/java.log.25538",
+		"/home/mik/Downloads/Export-1f881bf0-734a-458b-963a-69afaad43594/Impedance of an Antenna.md",
+		"/home/mik/Pictures/Linux-commands.md",
+		"/home/mik/Downloads/Export-1f881bf0-734a-458b-963a-69afaad43594/Impedance of an Antenna 620f5c694e0f4ffca6c3f8eb57076bc8.md",
+		"/home/mik/.zshrc",
+		"/home/mik/.local/share/applications/Mathpix.desktop",
+		"/home/mik/.local/share/applications/Arduino.desktop",
+		"/home/mik/.local/share/applications/matlab.desktop",
+		"/home/mik/.local/share/applications/wolfram-mathematica12.desktop",
+		"/usr/share/terminator/terminatorlib/container.py",
+		"/home/mik/matlab_R2022b_glnxa64/readme.txt",
+		"/home/mik/matlab_R2022b_glnxa64/install",
+		"/home/mik/Data-config/Linux setup/Matlab911Lin/_ReadmeLin.txt",
+		"/home/mik/Data-config/Linux setup/Matlab911Lin/license.lic",
+		"/home/mik/Projects/_scripts_/auto-rename.py",
+		"/home/mik/Grafana/Grafana-git/example_data/example_csv_renamed/auto-rename.py",
+		"/home/mik/Downloads/_A-mobility/covid/vaccination-centers.md",
+		"/home/mik/Downloads/_A-mobility/covid/archive/list-vaccines.md",
+		"/home/mik/Downloads/denis.md",
+		"/usr/share/themes/Adapta-Nokto-Eta/metacity-1/metacity-theme-3.xml",
+		"/home/mik/Mos2-git/MSc thesis/else/_Gr drawbacks.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/Archive/main-TEXT-tex/main-TEXT-v0.5.tex",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main text/_text.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/Archive/_Applications.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/main text/_ToC.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/Archive/_Intro.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/main text/_ru-tmp.md",
+		"/home/mik/Mos2-git/MSc thesis/main-TEXT-v0.4.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/Archive/main-TEXT-tex/main-TEXT-v0.5.tex",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/main text/_text.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/Archive/main-TEXT-tex/main-TEXT-v0.4.tex",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/Archive/Blocks.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/Archive/my links.md",
+		"/home/mik/Downloads/IR/thermalspray_cell/catkin_ws/src/fanuc_experimental/fanuc_control/src/GripperManipulator.py",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main text/_ext_and_pl-peaks.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main text/lit.bib",
+		"/home/mik/Mos2-git/Measurements-and-analysis/guides and info/QYield/ReadMe_how-to-Qyield.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main text/archive/lit-save.bib",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_vocabulary.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main text/lit-save.bib",
+		"/home/mik/Mos2-git/Mos2-MS-degree/Archive/main-TEXT-tex/lit-tex.bib",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main text/_discuss_size.md",
+		"/mnt/712793A623DF8B9B/Total comander/dropped text.txt",
+		"/mnt/712793A623DF8B9B/Setup/OneCommander/Readme.txt",
+		"/home/mik/Mos2-git/Measurements-and-analysis/merge/merge.py",
+		"/home/mik/Mos2-git/Mos2-MS-degree/my_Sample-prep.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_LPE applications.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_Z-potential.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/my links.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_Intro.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_tmp.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/tmp",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/_discuss_size.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/_Blocks.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/pieces.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/main-TEXT-v0.5.tex",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/lit.bib",
+		"/home/mik/Desktop/2D-Science-MoS2-git/.gitignore",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/main-TEXT-tex/tmp",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/_tmp.md",
+		"/home/mik/Desktop/2D-Science-MoS2-git/Mos2-MS-degree/main-TEXT-tex/lit-old.bib",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/lit-old.bib",
+		"/home/mik/scripts/gsch.py",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/main-TEXT-v0.5.bbl",
+		"/home/mik/Mos2-git/Mos2-MS-degree/lit.bib",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/_discuss_ext-spectra-F.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/_discuss_ext-draft.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/how-to_dicuss-figures.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_how-Ext-Abs-spectra-conc-n-size.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/_discuss_exct-draft.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/main-TEXT-tex/_discuss_exctinct-spectra.md",
+		"/home/mik/Mos2-git/Mos2-MS-degree/_quantum yield PL photonics.md"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 151.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/mik/Projects/_Code-projects_/Custom-css-git"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Terminus":
+	{
+		"height": 329.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 157.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 157.0
+	},
+	"output.exec":
+	{
+		"height": 125.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 232.0
+	},
+	"output.markdown":
+	{
+		"height": 157.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bo",
+				"matlab-code/bow_tie_demo.m"
+			],
+			[
+				"",
+				"_ru-tmp.md"
+			],
+			[
+				"appl",
+				"notes/_Applications.md"
+			],
+			[
+				"tmp",
+				"main/_ru-tmp.md"
+			],
+			[
+				"main",
+				"Archive/main-TEXT-tex/main-TEXT-v0.5.tex"
+			],
+			[
+				"intor",
+				"Archive/_Intro.md"
+			],
+			[
+				"conc",
+				"main text/calc_conc.md"
+			],
+			[
+				"lit",
+				"main text/lit.bib"
+			],
+			[
+				"voc",
+				"_vocabulary.md"
+			],
+			[
+				"ext",
+				"main text/_ext_and_pl-peaks.md"
+			],
+			[
+				"tm",
+				"main-TEXT-tex/tmp"
+			],
+			[
+				"li",
+				"main-TEXT-tex/lit.bib"
+			],
+			[
+				"bib",
+				"main-TEXT-tex/lit.bib"
+			],
+			[
+				"bbl",
+				"main-TEXT-tex/main-TEXT-v0.5.bbl"
+			],
+			[
+				"0.5",
+				"main-TEXT-tex/main-TEXT-v0.5.tex"
+			],
+			[
+				"dis",
+				"main-TEXT-tex/_discuss_exctinct-spectra.md"
+			],
+			[
+				"pie",
+				"main-TEXT-tex/pieces.md"
+			],
+			[
+				"pl ",
+				"_PL chapter/_123-layer-bandgap-photodetection.md"
+			],
+			[
+				"pl",
+				"_quantum yield PL photonics.md"
+			],
+			[
+				"PL",
+				"_PL chapter/_Bandgap-2-PL.md"
+			],
+			[
+				"0.4",
+				"main-TEXT-tex/main-TEXT-v0.4.md"
+			],
+			[
+				"0.3",
+				"main-TEXT-tex/main-TEXT-v0.3cut.tex"
+			],
+			[
+				"app",
+				"_Applications.md"
+			],
+			[
+				"ta",
+				"main-TEXT-tex/table_samples.tex"
+			],
+			[
+				".tex",
+				"main-TEXT-tex/main-TEXT-v0.4.tex"
+			],
+			[
+				"mem",
+				"_memory-Electronics.md"
+			],
+			[
+				"intr",
+				"_Intro.md"
+			],
+			[
+				"cancer",
+				"_Cancer therapy.md"
+			],
+			[
+				"ma",
+				"main-TEXT-tex/main-TEXT-v0.3cut.tex"
+			],
+			[
+				"samp",
+				"my_Sample-prep.md"
+			],
+			[
+				"sampl",
+				"_Sample-prep-general.md"
+			],
+			[
+				"vo",
+				"_vocabulary.md"
+			],
+			[
+				".bb",
+				"main-TEXT-tex/lit.bib"
+			],
+			[
+				"lpe",
+				"_LPE applications.md"
+			],
+			[
+				"LPE",
+				"_LPE applications.md"
+			],
+			[
+				"blo",
+				"main-TEXT-tex/_Blocks.md"
+			],
+			[
+				"syn",
+				"_Synth via Li.md"
+			],
+			[
+				"0.1",
+				"main-TEXT-tex/main-TEXT-v0.1.tex"
+			],
+			[
+				"0.2",
+				"main-TEXT-tex/main-TEXT-v0.2.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
