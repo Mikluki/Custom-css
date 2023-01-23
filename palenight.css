@@ -167,8 +167,8 @@ html body dl dd{
 html body code{
     font-family:Menlo,Monaco,Consolas,'Courier New',monospace;
      font-size:.85em !important;
-     color:#fff;
-     background-color:#364850;
+     color:#F78C6C;
+     background-color:#3d425b;
      border-radius:3px;
      padding:.2em 0
 }
